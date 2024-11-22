@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_12.txt
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_17.txt
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_21.txt
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_26.txt
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_30.txt
+Sitemap: https://salfanelliu623.github.io/salfanelliu623_github_io_zp531_5.txt
